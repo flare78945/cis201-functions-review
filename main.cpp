@@ -1,3 +1,8 @@
+/** File: A-Count
+ ** Developer: Minhquang Tran
+ ** Email: phillip_tran_98@yahoo.com
+ ** Description: This program counts the number of the letter "a" in a given phrase or word.
+**/
 #include<iostream>
 #include<string>
 
